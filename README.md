@@ -15,12 +15,11 @@ Installation and Running Locally
 1. Clone the repository
 bash
 git clone https://github.com/asefshaik/sparkle.git
-
 cd sparkle
-2. Install dependencies
+3. Install dependencies
 bash
 npm install
-3. Start the development server
+4. Start the development server
 bash
 npm start
 The app will run at http://localhost:3000.
